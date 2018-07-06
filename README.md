@@ -5,3 +5,5 @@ Output is 2
 
 -----------------------------------------------
 
+Commented function
+https://github.com/theonlydonwilson/nugg-node-promise/blob/master/examplePromise.js
